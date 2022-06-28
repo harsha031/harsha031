@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @harsha031
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python Development
 - 📫 How to reach me +919618294480,Email:harshavardhan.hv12@gmail.com
 
 <!---
